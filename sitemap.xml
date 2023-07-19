@@ -3,25 +3,26 @@
     <url>
         <loc>https://sitemap.eshop-cloud.com//alaa.html</loc>
        <lastmod>2016-05-13</lastmod>
-       <changeFreq>weekly</changeFreq>
+      <changefreq>weekly</changefreq>
         <priority>0.5</priority>
-    </url>
+    
+   </url>
     <url>
         <loc>https://sitemap.eshop-cloud.com//blogs.html</loc>
-        <lastMod>2023-07-19</lastMod>
-        <changeFreq>weekly</changeFreq>
+      <lastmod>2023-07-19</lastmod>
+      <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://sitemap.eshop-cloud.com/contactus.html</loc>
-        <lastMod>2023-07-19</lastMod>
-        <changeFreq>weekly</changeFreq>
+         <lastmod>2023-07-19</lastmod>
+      <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://sitemap.eshop-cloud.com/event.html</loc>
-        <lastMod>2023-07-19</lastMod>
-        <changeFreq>weekly</changeFreq>
+        <lastmod>2023-07-19</lastmod>
+      <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
 </urlset>
